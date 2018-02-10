@@ -13,7 +13,7 @@ import (
 // https://github.com/derekparker/delve/tree/master/Documentation/installation
 // http://mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
 func main() {
-	a := "Arturo is in the town"
+	a := "Arturo is in the town -"
 	fmt.Printf("hello, world\n" + a)
 	df := dataframe.New(
 		series.New([]string{"b", "a"}, series.String, "COL.1"),
