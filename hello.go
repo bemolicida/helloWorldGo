@@ -9,6 +9,7 @@ import (
 
 // go get github.com/kniren/gota/dataframe  (para importar)
 // "go build"  en la consola
+// git config --global user.email johndoe@example.com
 // https://golang.org/doc/install?download=go1.9.4.windows-amd64.msi
 // https://github.com/derekparker/delve/tree/master/Documentation/installation
 // http://mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
