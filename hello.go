@@ -8,7 +8,7 @@ import (
 )
 
 // go get github.com/kniren/gota/dataframe  (para importar)
-// "go build" en la consola
+// "go build"  en la consola
 // https://golang.org/doc/install?download=go1.9.4.windows-amd64.msi
 // https://github.com/derekparker/delve/tree/master/Documentation/installation
 // http://mclibre.org/consultar/informatica/lecciones/vsc-git-repositorio.html
